@@ -1,0 +1,60 @@
+Employee ID: w7vAeMzg
+Full Name: Merabet Souad
+Total Number of Consultations: 2
+Last consultation Date: 19/08/2024
+History: Occupational disease, Periodic examination, Pre-employment visit
+
+Employee ID: zrOSRzZB
+Full Name: Ait Said Sabrina
+Total Number of Consultations: 0
+Last consultation Date: 13/11/2025
+History: Occupational disease, Work accident, Pre-employment visit, Return-to-work visit
+
+Employee ID: MebNCjUR
+Full Name: Ait Bougmez Fethi
+Total Number of Consultations: 4
+Last consultation Date: 05/06/2024
+History: Occupational disease, Periodic examination, Work accident, Return-to-work visit
+
+Employee ID: nxnjQd7h
+Full Name: Boukerzaza Boudjemaa
+Total Number of Consultations: 4
+Last consultation Date: 25/11/2025
+History: Work accident, Periodic examination, Pre-employment visit, Occupational disease, Return-to-work visit
+
+Employee ID: 5sre9Rn4
+Full Name: Dadoune Ali
+Total Number of Consultations: 4
+Last consultation Date: 19/03/2025
+History: Pre-employment visit
+
+Employee ID: AwqvrC0V
+Full Name: Boufenar Ismail
+Total Number of Consultations: 3
+Last consultation Date: 15/10/2024
+History: Return-to-work visit, Periodic examination, Pre-employment visit
+
+Employee ID: nITuiDZk
+Full Name: Bouamama Riyad
+Total Number of Consultations: 5
+Last consultation Date: 12/07/2024
+History: Work accident, Occupational disease
+
+Employee ID: K8knK1Fb
+Full Name: Merabet Hind
+Total Number of Consultations: 3
+Last consultation Date: 08/01/2025
+History: Pre-employment visit, Return-to-work visit, Work accident, Occupational disease, Periodic examination
+
+Employee ID: KQw568zQ
+Full Name: Ait Ali Zakaria
+Total Number of Consultations: 3
+Last consultation Date: 30/05/2024
+History: Pre-employment visit, Occupational disease, Periodic examination
+
+Employee ID: WZ3zdP8C
+Full Name: Meghichi Nadia
+Total Number of Consultations: 2
+Last consultation Date: 22/04/2025
+History: Occupational disease, Periodic examination
+
