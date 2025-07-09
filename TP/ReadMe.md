@@ -1,6 +1,6 @@
 // **** TP1 Réalisé par Rachid Mustapha Amine et Ait Boussad Ramy Idir **** \\
 
-- Ce fichier contient des recommandations et des instructions en ce qui concerne notre programme de TP :
+- Ce fichier contient des recommandations et des instructions en ce qui concerne mon programme de TP :
 
 	1. Le programme a été écrit sur Visual Studio Code donc je ne sais pas s'il affichera des erreurs dans d'autres IDE tel que CodeBlocks qui empêcheront
 	   la compilation. En tout cas j'ai joint dans le dossier le fichier déjà compilé "TP.exe" que vous n'aurez qu'à executer.
