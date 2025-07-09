@@ -14,5 +14,3 @@
 
 - J'ai joint dans le dossier des fichiers EmpRecords.txt et Consultations.txt mais vous pouvez les supprimer, en utiliser d'autres, ou en générer aléatoirement grâce à notre
   programme.
-
-Merci.
