@@ -1,4 +1,4 @@
-# // **** TP1 Réalisé par Rachid Mustapha Amine et Ait Boussad Ramy Idir **** \\
+# // **** TP1 Réalisé par Rachid Mustapha Amine **** \\
 
 - Ce fichier contient des recommandations et des instructions en ce qui concerne mon programme de TP :
 
