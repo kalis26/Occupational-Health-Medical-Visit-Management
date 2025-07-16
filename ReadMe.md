@@ -19,7 +19,7 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
  	* Build a priority queue based on consultation type:
     
 		* *Highest priority*: Work accident.
-    		* Followed by: Occupational disease.
+		* Followed by: Occupational disease.
       		* Then: Return-to-work and Pre-employment visits.
         	* *Lowest priority*: Periodic examinations.
   
