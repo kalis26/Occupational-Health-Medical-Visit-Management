@@ -49,9 +49,9 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
 
 ## How to run ?
 * First, you need to get the full path of the folder the executable is in.
-* Once you have it, opend the Windows terminal "**cmd**" (not as administrator) and execute the following commands:
-`cd "insert_path_here"`\
-`TP.exe`
+* Once you have it, opend the Windows terminal "**cmd**" (not as administrator) and execute the following commands:\
+```cd "insert_path_here"```\
+```TP.exe```
 
 ## Insights & Recommandations
 
