@@ -43,13 +43,22 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
 ## Documentation
 * To know more about the project, you can access the instructions folder.
 
+## System Requirements
+* Windows terminal
+* Standard C libraries
+
+## How to run ?
+* First, you need to get the full path of the folder the executable is in.
+* Once you have it, opend the Windows terminal "**cmd**" (not as administrator) and execute the following commands:
+`cd "insert_path_here"`\
+`TP.exe`
+
 ## Insights & Recommandations
 
 * The program was written in Visual Studio Code, so I don't know if it will display errors in other IDEs such as CodeBlocks that would prevent compilation. In any case, I've attached the already compiled "TP.exe" file to the folder, which you just need to run.
 
 * To run the program, it's best to change the command prompt settings and set the font to 10 to avoid display problems. Otherwise, the VS Code terminal works fine too.
 
-* If you choose to run the program in the Windows command prompt, please change the working directory to the folder where the TP.exe file is located (in the command prompt: cd "the full path of the file folder"). Once this is done, you can type the TP.exe file name directly to run it. Because if you run the file directly in CMD, the files EmpRecords.txt and Consultations.txt will be created in your home directory,
-instead of the lab folder.
+* If you choose to run the program in the Windows command prompt, please change the working directory to the folder where the TP.exe file is located (See "How to run?" section). Because if you run the file directly in CMD, the files EmpRecords.txt and Consultations.txt will be created in your home directory, instead of the lab folder.
 
 * I've attached the files EmpRecords.txt and Consultations.txt in the folder, but you can delete them, use others, or generate random ones using our program.
