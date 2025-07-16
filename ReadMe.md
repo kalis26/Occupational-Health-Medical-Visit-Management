@@ -49,9 +49,11 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
 
 ## How to run ?
 * First, you need to get the full path of the folder the executable is in.
-* Once you have it, opend the Windows terminal "**cmd**" (not as administrator) and execute the following commands:\
+* Once you have it, opend the Windows terminal "**cmd**" (not as administrator) and execute the following commands:
 ```
 cd "insert_path_here"
+```
+```
 TP.exe
 ```
 
@@ -63,4 +65,4 @@ TP.exe
 
 * If you choose to run the program in the Windows command prompt, please change the working directory to the folder where the TP.exe file is located (See "How to run?" section). Because if you run the file directly in CMD, the files EmpRecords.txt and Consultations.txt will be created in your home directory, instead of the lab folder.
 
-* I've attached the files EmpRecords.txt and Consultations.txt in the folder, but you can delete them, use others, or generate random ones using our program.
+* I've attached the files EmpRecords.txt and Consultations.txt in the folder, but you can delete them, use others, or generate random ones using my program.
