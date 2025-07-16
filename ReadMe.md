@@ -1,5 +1,5 @@
 # Occupational-Health-Medical-Visit-Management
-First trial work of the module "Algorithmics and dynamic data structures". This project involves developing a console-based system in C language to automate the management of medical consultations for the employees at an industrial company.
+First trial work of the module "Algorithmics and dynamic data structures". This project involves developing a console-based system in C language to automate the management of medical consultations for the employees at an industrial company.\
 This project features the use of different data structures (lists, priority lists, and queues) to store data efficiently, and retrieve it rapidly.
 
 - This file contains recommendations and instructions regarding my lab program:
