@@ -17,10 +17,12 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
 
 	* Read daily consultations from `Consultations.txt`.
  	* Build a priority queue based on consultation type:
+    
 		* *Highest priority*: Work accident.
     		* Followed by: Occupational disease.
       		* Then: Return-to-work and Pre-employment visits.
         	* *Lowest priority*: Periodic examinations.
+  
         * Maintain FIFO order within the same priority.
         * Manage real-time modifications: add, cancel, close, or reschedule consultations.
         * Ensure daily capacity does not exceed 10 appointments.
