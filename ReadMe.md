@@ -1,6 +1,15 @@
 # Occupational-Health-Medical-Visit-Management
 This project is the first major assignment for the "Algorithmics and Dynamic Data Structures" module. It consists of a console-based C application designed to automate and manage medical consultations for employees in an industrial company. All functionalities are implemented using core C language, with a strong focus on dynamic data structures.
 
+<div align="center">
+  
+  [![stars](https://img.shields.io/github/stars/kalis26/Occupational-Health-Medical-Visit-Management)](https://github.com/kalis26/Occupational-Health-Medical-Visit-Management/stargazers)
+  [![forks](https://img.shields.io/github/forks/kalis26/Occupational-Health-Medical-Visit-Management)](https://github.com/kalis26/Occupational-Health-Medical-Visit-Management/forks)
+  [![issues](https://img.shields.io/github/issues/kalis26/Occupational-Health-Medical-Visit-Management?color=orange)](https://github.com/kalis26/Occupational-Health-Medical-Visit-Management/issues)
+  [![license](https://img.shields.io/github/license/kalis26/Occupational-Health-Medical-Visit-Management)](https://github.com/kalis26/Occupational-Health-Medical-Visit-Management/blob/main/LICENSE)
+  
+</div>
+
 ## Core Features
 * **Generation of Random Employee Data (Bonus)**
 
