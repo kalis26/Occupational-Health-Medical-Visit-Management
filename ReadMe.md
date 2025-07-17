@@ -10,6 +10,12 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
   
 </div>
 
+<div align="center">
+
+  <img src="demo.gif">
+ 
+</div>
+
 ## Core Features
 * **Generation of Random Employee Data (Bonus)**
 
