@@ -12,7 +12,7 @@ This project is the first major assignment for the "Algorithmics and Dynamic Dat
 
 <div align="center">
 
-  <img src="demo.gif">
+  <img src="Resources/demo.gif">
  
 </div>
 
